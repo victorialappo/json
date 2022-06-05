@@ -1,5 +1,7 @@
-1
-2
-3
-4
+{
+  "Name": "vika",
+  "homeTown": "minsk",
+  "pets": 0,
+  "expectedsalary": "2000$",
+}
 
